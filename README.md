@@ -1,0 +1,2 @@
+# PhpLutaemoji
+ Relacionamento entre class.
